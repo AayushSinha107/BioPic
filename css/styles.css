@@ -1,0 +1,93 @@
+body{
+  background-color: #f6d186;
+  text-align: center;
+  font-family: 'Baloo Chettan 2', cursive;
+  margin: 0;
+}
+
+div{
+  margin: 20px 10px;
+  padding: 10px;
+
+}
+
+.top-container {
+  background-color: #fcf7bb;
+  position: relative;
+}
+
+h1 {
+  margin: 0;
+  text-decoration: underline;
+}
+
+h2 {
+  margin: 0;
+  text-decoration: underline;
+}
+
+h3{
+  margin: 0;
+  text-decoration: underline;
+}
+
+.pro{
+  color: #cbe2b0;
+  font-family: Sacramento, cursive;
+  font-size: 24px;
+}
+
+.head{
+  background-color: #f19292;
+  padding: 50px 0;
+  font-family: Sacramento,cursive;
+  color: #cbe2b0;
+  font-size: 50px;
+}
+
+.bold-text{
+  text-decoration: underline;
+}
+
+.profile-img{
+  width: 300px;
+  height: 300px;
+  margin: 5px;
+  border-style: solid;
+  border-color: #cbe2b0;
+}
+
+.code-skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.rubik-skill{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  display: inline-block;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 100px;
+  right: 200px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 100px;
+  left: 200px;
+}
+
+.footer-link{
+  margin: 0 5px;
+}
